@@ -1,0 +1,360 @@
+(footprint "PA2745NL"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "FL3"
+		(at 5.1 8.85 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b85de6fa-1314-4922-8296-887c26cf4839")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "PA2745NL"
+		(at 0 8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a8b39fe8-6da1-46cd-a473-9e5256bac50a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13e9daf3-609b-46ba-823f-dabd58241780")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d61c5f2-72d1-4d9e-9f8e-7414826c626f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC" "C3211926"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d9d531a-5d6a-4d13-ac40-29725b8b5a82")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field5" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99a31639-ed97-4e18-9ef7-4b9d60611d93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Choke*Schaffner*RN102*")
+	(sheetname "/")
+	(sheetfile "PM.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -6.75 4.25)
+		(end -6.75 -4.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3ae6414f-46d1-4d67-834a-502549cf9862")
+	)
+	(fp_line
+		(start -4.5 3)
+		(end -2 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5917f470-fcd0-4dd2-bad2-1a33343f4899")
+	)
+	(fp_line
+		(start -4.25 -3)
+		(end -2 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5d4d21e3-c3f5-46ca-b9c9-d1ace90064ed")
+	)
+	(fp_line
+		(start -2 -6.75)
+		(end 6.5 -6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fbebd2f4-0db9-4941-b476-af1d36b2ae9e")
+	)
+	(fp_line
+		(start -0.5 -3.5)
+		(end -0.5 3.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "41b94e63-d35e-4e09-bf24-c8554ae8a590")
+	)
+	(fp_line
+		(start 0.5 -3.5)
+		(end 0.5 3.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "efec3a5b-4a8c-4f2a-940d-069a6227bd55")
+	)
+	(fp_line
+		(start 4.5 3)
+		(end 2.25 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "93e67efd-174f-4f03-85f7-f94c0afa808c")
+	)
+	(fp_line
+		(start 4.75 -3)
+		(end 2.25 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "62affe6b-26bc-4a42-b2a8-31aba5480222")
+	)
+	(fp_line
+		(start 6.5 6.75)
+		(end -6.5 6.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "68c3c659-3699-48cc-a713-c84d3903c29b")
+	)
+	(fp_line
+		(start 6.75 -4.25)
+		(end 6.75 4.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "470905c0-877c-4550-a29f-4a927aac97bd")
+	)
+	(fp_arc
+		(start -2 -3)
+		(mid -1.25 -2.25)
+		(end -2 -1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "661b437f-7348-4a9c-bd17-89a2f8530775")
+	)
+	(fp_arc
+		(start -2 -1.5)
+		(mid -1.25 -0.75)
+		(end -2 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5b1f4cfa-282f-4be8-aa17-5d588dbbd985")
+	)
+	(fp_arc
+		(start -2 0)
+		(mid -1.25 0.75)
+		(end -2 1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "847a10eb-9820-423f-98aa-d8fffe9bccd7")
+	)
+	(fp_arc
+		(start -2 1.5)
+		(mid -1.25 2.25)
+		(end -2 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a9124600-7d59-42ae-8a73-db95d5b10820")
+	)
+	(fp_arc
+		(start 2.25 -1.5)
+		(mid 1.5 -2.25)
+		(end 2.25 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e1763763-d472-4fb1-87a7-f8640fde3074")
+	)
+	(fp_arc
+		(start 2.25 0)
+		(mid 1.5 -0.75)
+		(end 2.25 -1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cf4ec44b-c5c5-4a40-8f1f-723125d1f3b6")
+	)
+	(fp_arc
+		(start 2.25 1.5)
+		(mid 1.5 0.75)
+		(end 2.25 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a36f9e9c-115d-48f2-8ff2-bda66f35fe6c")
+	)
+	(fp_arc
+		(start 2.25 3)
+		(mid 1.5 2.25)
+		(end 2.25 1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c9144314-227a-4eef-973e-47f93eef9c66")
+	)
+	(fp_circle
+		(center -6.68 -7.01)
+		(end -6.44 -7.09)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5f686a19-5105-40f0-a69e-4f9f4422c97b")
+	)
+	(fp_circle
+		(center -1.75 -3.75)
+		(end -1.5 -3.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "08c901e4-50f9-4fd0-acc3-b55b1e7df079")
+	)
+	(fp_rect
+		(start -7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "bf0edb03-e7c9-49de-a4cc-078c4f727883")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 9.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "162238f7-564a-4939-a542-f95bdab214a9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -4.75 -5.4)
+		(size 4.2 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "5da99ff9-55cd-4204-b16d-78b8974e148f")
+	)
+	(pad "2" smd roundrect
+		(at -4.75 5.4)
+		(size 4.2 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "32cc1a00-7a8b-4e2f-882b-32b3abbe6b34")
+	)
+	(pad "3" smd roundrect
+		(at 4.75 -5.4)
+		(size 4.2 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "ad147632-22ce-4178-9a11-9b8d9097a052")
+	)
+	(pad "4" smd roundrect
+		(at 4.75 5.4)
+		(size 4.2 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "f6e7285a-8bdc-479f-95c8-3352a2806e5e")
+	)
+	(embedded_fonts no)
+	(model "${USER_GIT_ROOT}/esp32amp/3dmodels/PA2745NL.step"
+		(offset
+			(xyz 0.9 -1.2 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -0)
+		)
+	)
+)
