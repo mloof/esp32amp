@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 3.0,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -678,6 +678,30 @@
           "label": "Voltage ratin",
           "name": "Voltage ratin",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field6",
+          "name": "Field6",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -728,7 +752,7 @@
         "uuid": "b3936ed8-84b2-4e40-844a-30f7710df2e5"
       }
     ],
-    "used_designators": "R21,J4-6,J8,F1,C7,#PWR5",
+    "used_designators": "U3,U5,U7-9,#PWR47-48,#PWR50-55,#PWR61-62,C6,C8-16,J1,R2-4,R8,R22-34,FB5,TP1-3",
     "variants": []
   },
   "sheets": [
