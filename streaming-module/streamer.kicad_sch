@@ -7842,6 +7842,12 @@
 		(uuid "14b34b6e-bda8-42e5-99d9-a79afcda05f3")
 	)
 	(junction
+		(at 72.39 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c2c22f3-b66c-414f-bd65-725a4b21ac03")
+	)
+	(junction
 		(at 153.67 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7974,12 +7980,6 @@
 		(uuid "681f266d-c624-41f2-aafb-975a05345ae6")
 	)
 	(junction
-		(at 72.39 162.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6db2092f-9418-43fa-9e92-48422a4628ca")
-	)
-	(junction
 		(at 60.96 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8020,12 +8020,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "81522aa2-1328-43da-ab62-842d32cd4079")
-	)
-	(junction
-		(at 69.85 167.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "84197877-3184-42da-9be0-ed28472a0f1a")
 	)
 	(junction
 		(at 259.08 243.84)
@@ -8104,6 +8098,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "afca3243-c08c-403e-8b1c-7507bc4b7c80")
+	)
+	(junction
+		(at 67.31 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b120fe89-96f8-4cf3-ba94-cabbf22e5769")
 	)
 	(junction
 		(at 99.06 95.25)
@@ -8292,16 +8292,6 @@
 			(type default)
 		)
 		(uuid "076913b6-da0c-4f7e-824a-a3cb2c50dd48")
-	)
-	(wire
-		(pts
-			(xy 69.85 167.64) (xy 69.85 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07f23549-1d18-4bf3-b256-974cf9b1f674")
 	)
 	(wire
 		(pts
@@ -8535,6 +8525,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 162.56) (xy 72.39 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d2f1b82-896a-4ee2-9f5a-75561af5ce4b")
+	)
+	(wire
+		(pts
 			(xy 382.27 154.94) (xy 378.46 154.94)
 		)
 		(stroke
@@ -8542,6 +8542,16 @@
 			(type default)
 		)
 		(uuid "1d752d2c-ca57-458a-b4b2-b67ec47ccfc0")
+	)
+	(wire
+		(pts
+			(xy 72.39 162.56) (xy 73.66 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d81940e-5036-449e-bf10-4f0ed6a45339")
 	)
 	(wire
 		(pts
@@ -8565,7 +8575,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 162.56) (xy 58.42 162.56)
+			(xy 45.72 162.56) (xy 72.39 162.56)
 		)
 		(stroke
 			(width 0)
@@ -8592,16 +8602,6 @@
 			(type default)
 		)
 		(uuid "20e56759-8084-4373-92ab-c51eeb943e1c")
-	)
-	(wire
-		(pts
-			(xy 66.04 167.64) (xy 69.85 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2184433d-e8ac-452f-8a19-9a0281867e23")
 	)
 	(wire
 		(pts
@@ -8762,6 +8762,16 @@
 			(type default)
 		)
 		(uuid "291aae34-6679-4d4c-b618-09bcca813c0c")
+	)
+	(wire
+		(pts
+			(xy 67.31 182.88) (xy 67.31 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29e5427f-109d-49bf-a995-3f47c72e0bd5")
 	)
 	(wire
 		(pts
@@ -9055,6 +9065,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 180.34) (xy 72.39 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4eb0a9e5-3231-4d5d-bf66-4db38d0db5ff")
+	)
+	(wire
+		(pts
 			(xy 199.39 264.16) (xy 195.58 264.16)
 		)
 		(stroke
@@ -9192,6 +9212,16 @@
 			(type default)
 		)
 		(uuid "5b29c4db-f0c6-434d-896f-d0a5144b79d7")
+	)
+	(wire
+		(pts
+			(xy 67.31 167.64) (xy 67.31 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bb11b95-0e81-4dc1-b3df-c08c9213d934")
 	)
 	(wire
 		(pts
@@ -9925,6 +9955,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 167.64) (xy 73.66 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99090821-27db-4417-a046-51abaead20c4")
+	)
+	(wire
+		(pts
 			(xy 179.07 149.86) (xy 179.07 156.21)
 		)
 		(stroke
@@ -10155,16 +10195,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 173.99) (xy 72.39 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abbe416f-28be-454a-a1d5-f42d6a0b4aa8")
-	)
-	(wire
-		(pts
 			(xy 22.86 187.96) (xy 22.86 189.23)
 		)
 		(stroke
@@ -10305,16 +10335,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 167.64) (xy 73.66 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9597dab-3647-4462-80db-a1f2c4384e1c")
-	)
-	(wire
-		(pts
 			(xy 203.2 153.67) (xy 204.47 153.67)
 		)
 		(stroke
@@ -10425,7 +10445,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 167.64) (xy 58.42 167.64)
+			(xy 46.99 167.64) (xy 67.31 167.64)
 		)
 		(stroke
 			(width 0)
@@ -10675,16 +10695,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 162.56) (xy 72.39 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc6010fd-f65b-4770-9b09-33cb2cbb9493")
-	)
-	(wire
-		(pts
 			(xy 66.04 269.24) (xy 67.31 269.24)
 		)
 		(stroke
@@ -10742,16 +10752,6 @@
 			(type default)
 		)
 		(uuid "e3073f7b-117f-45f8-95d9-4dd079727341")
-	)
-	(wire
-		(pts
-			(xy 72.39 162.56) (xy 73.66 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3c875b6-d954-44dd-b417-d5311afb637c")
 	)
 	(wire
 		(pts
@@ -11034,7 +11034,7 @@
 		(uuid "ff779299-7807-45fe-b0bf-0e93762900c7")
 	)
 	(label "D+"
-		(at 69.85 173.99 270)
+		(at 67.31 182.88 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11124,7 +11124,7 @@
 		(uuid "1633a380-52af-4a25-9928-990bc90f54e6")
 	)
 	(label "D-"
-		(at 72.39 173.99 270)
+		(at 72.39 182.88 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17060,22 +17060,22 @@
 			)
 		)
 		(pin "1"
-			(uuid "9d79a099-7e9b-48cc-ab96-c7703815cad5")
+			(uuid "9d79a099-7e9b-48cc-ab96-c7703815cad6")
 		)
 		(pin "6"
-			(uuid "90ae8286-ea10-4ca5-ab43-39e0aca141cd")
+			(uuid "90ae8286-ea10-4ca5-ab43-39e0aca141ce")
 		)
 		(pin "5"
-			(uuid "4d5fdcdc-1ace-4a9f-a508-be9231058d91")
+			(uuid "4d5fdcdc-1ace-4a9f-a508-be9231058d92")
 		)
 		(pin "2"
-			(uuid "6bf34ca1-a673-4374-a912-083e6756be72")
+			(uuid "6bf34ca1-a673-4374-a912-083e6756be73")
 		)
 		(pin "3"
-			(uuid "b36931c0-7788-4db8-889c-28eacd16dfa6")
+			(uuid "b36931c0-7788-4db8-889c-28eacd16dfa7")
 		)
 		(pin "4"
-			(uuid "8af15526-998d-4e4c-a5de-e2270ce6115b")
+			(uuid "8af15526-998d-4e4c-a5de-e2270ce6115c")
 		)
 		(instances
 			(project "streamer"
@@ -18013,7 +18013,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 62.23 167.64 90)
+		(at 72.39 176.53 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18023,7 +18023,7 @@
 		(dnp no)
 		(uuid "888e1169-014d-4483-9373-0bde0af55061")
 		(property "Reference" "R17"
-			(at 62.484 169.926 90)
+			(at 74.676 176.276 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18033,7 +18033,7 @@
 			)
 		)
 		(property "Value" "22"
-			(at 62.23 167.64 90)
+			(at 72.39 176.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18043,7 +18043,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 62.23 169.418 90)
+			(at 74.168 176.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18054,7 +18054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 167.64 0)
+			(at 72.39 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18065,7 +18065,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 62.23 167.64 0)
+			(at 72.39 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18076,7 +18076,7 @@
 			)
 		)
 		(property "JLC" "C25092"
-			(at 62.23 167.64 90)
+			(at 72.39 176.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18087,7 +18087,7 @@
 			)
 		)
 		(property "Voltage rating" ""
-			(at 62.23 167.64 90)
+			(at 72.39 176.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21158,22 +21158,22 @@
 			)
 		)
 		(pin "6"
-			(uuid "e00939d1-7b0c-449e-a584-71029e36d933")
+			(uuid "e00939d1-7b0c-449e-a584-71029e36d934")
 		)
 		(pin "4"
-			(uuid "0c560510-df62-460d-80cd-fb4d34f63770")
+			(uuid "0c560510-df62-460d-80cd-fb4d34f63771")
 		)
 		(pin "1"
-			(uuid "a48860d3-f374-47dc-a34e-06bcb2016af4")
+			(uuid "a48860d3-f374-47dc-a34e-06bcb2016af5")
 		)
 		(pin "5"
-			(uuid "808f5208-2be2-479a-9b46-a44e99b97ee2")
+			(uuid "808f5208-2be2-479a-9b46-a44e99b97ee3")
 		)
 		(pin "2"
-			(uuid "f2d71e4d-1c5a-42b7-9838-18a744cafe09")
+			(uuid "f2d71e4d-1c5a-42b7-9838-18a744cafe0a")
 		)
 		(pin "3"
-			(uuid "833c4c05-4665-4c2c-aeff-c9fc45b94d94")
+			(uuid "833c4c05-4665-4c2c-aeff-c9fc45b94d95")
 		)
 		(instances
 			(project "streamer"
@@ -22166,7 +22166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "components:MC-710S-Z13"
+		(property "Footprint" "easyeda2kicad:USB-C-SMD_GT-USB-7058"
 			(at 34.29 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -22954,7 +22954,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 62.23 162.56 90)
+		(at 67.31 176.53 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22964,7 +22964,7 @@
 		(dnp no)
 		(uuid "ea34d5f6-2972-4692-880d-8130eb26a1d8")
 		(property "Reference" "R16"
-			(at 62.484 160.02 90)
+			(at 64.77 176.276 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22974,7 +22974,7 @@
 			)
 		)
 		(property "Value" "22"
-			(at 62.23 162.56 90)
+			(at 67.31 176.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22984,7 +22984,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 62.23 164.338 90)
+			(at 69.088 176.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22995,7 +22995,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 162.56 0)
+			(at 67.31 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23006,7 +23006,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 62.23 162.56 0)
+			(at 67.31 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23017,7 +23017,7 @@
 			)
 		)
 		(property "JLC" "C25092"
-			(at 62.23 162.56 90)
+			(at 67.31 176.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23028,7 +23028,7 @@
 			)
 		)
 		(property "Voltage rating" ""
-			(at 62.23 162.56 90)
+			(at 67.31 176.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23644,22 +23644,22 @@
 			)
 		)
 		(pin "5"
-			(uuid "9b0f200d-dee5-4e49-a9eb-cc9ca1e3a5c8")
+			(uuid "9b0f200d-dee5-4e49-a9eb-cc9ca1e3a5c9")
 		)
 		(pin "6"
-			(uuid "20c58ba0-ef02-49e2-a30c-7dbb34aec854")
+			(uuid "20c58ba0-ef02-49e2-a30c-7dbb34aec855")
 		)
 		(pin "2"
-			(uuid "104cfa20-9fa0-4dda-a64d-1c62f4666f0e")
+			(uuid "104cfa20-9fa0-4dda-a64d-1c62f4666f0f")
 		)
 		(pin "3"
-			(uuid "ba434d5a-46a8-4359-8479-a093a971e82c")
+			(uuid "ba434d5a-46a8-4359-8479-a093a971e82d")
 		)
 		(pin "1"
-			(uuid "94af532e-29ed-4eac-8604-19df2ae63eee")
+			(uuid "94af532e-29ed-4eac-8604-19df2ae63eef")
 		)
 		(pin "4"
-			(uuid "68fd28bb-dc45-4326-ae7c-4c3f3aec5bb6")
+			(uuid "68fd28bb-dc45-4326-ae7c-4c3f3aec5bb7")
 		)
 		(instances
 			(project "streamer"
